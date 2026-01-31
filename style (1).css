@@ -1,0 +1,34 @@
+/*Navbar*/
+Navbar {
+    background-color: black;
+    color: white;
+    padding: 20px 50px;
+    font-size: 12px;
+}
+
+
+/*Hero*/
+Hero {
+ background-color: white;
+    color: black;
+    padding: 20px 50px;
+    font-size: 12px;
+}
+
+/*Projects*/
+Projects{
+    background-color: white;
+    color: black;
+    padding: 20px 50px;
+    font-size: 12px;
+}
+
+
+
+/* Footer */
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px 50px;
+    font-size: 12px;
+}
